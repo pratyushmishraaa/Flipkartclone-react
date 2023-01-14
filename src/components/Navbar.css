@@ -1,0 +1,45 @@
+@import url('https://fonts.googleapis.com/css2?family=Creepster&family=Nunito&display=swap');
+*{
+   margin: 0px;
+   padding: 0px;
+}
+.header {
+   display: flex;
+   
+   background: rgb(36, 58, 226);
+}
+.header-1 {
+   font-family: 'Nunito', sans-serif;
+   color: white;
+   margin-left: 100px;
+}
+.header-1 span{
+   color: goldenrod;
+}
+.s-1{
+   color: goldenrod;
+}
+.header-3{
+   margin-left: 100px;
+   margin-top: 10px;
+}
+.inp{
+padding: 5px;
+}
+.btn-1{
+   padding: 5px;
+}
+.btn-2{
+   padding: 5px;
+   margin-top: 10px;
+   margin-left: 200px;
+}
+.header-5{
+   font-size: 20px;
+   margin-left: 300px;
+   margin-top: 12px;
+}
+.header-5:hover{
+   cursor: pointer;
+   color: blanchedalmond;
+}

@@ -1,0 +1,16 @@
+.tab{
+   display: flex;
+   padding: 10px;
+   background: white;
+}
+ul{
+   list-style-type: none;
+   margin-left: 45px;
+   margin-top: 5px;
+
+}
+li{
+   display: inline;
+   margin: 34px;
+   font-size: 15px;font-weight: bold;
+}
